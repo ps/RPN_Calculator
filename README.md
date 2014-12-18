@@ -24,8 +24,8 @@ ruby rpn.rb "1 2 +" -e
 
 ###Run Unit Tests:
 ```
-ruby rpn.rb "1 2 +" -h
-ruby rpn.rb -h
+ruby rpn.rb "1 2 +" -t
+ruby rpn.rb -t
 ```
 
 
